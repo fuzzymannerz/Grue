@@ -1,5 +1,5 @@
 # Grue Sentora Theme #
-**This is a work in progress. NOT for production use!**
+**This is a work in progress.**
 
 A grey bluey "material" style theme for Sentora Control Panel.
 
