@@ -9,3 +9,5 @@ A grey bluey "flat" style theme for Sentora Control Panel.
 ![Grue for Sentora screenshot](http://i.imgur.com/KTfec6p.jpg)
 
 ![Grue for Sentora login screen screenshot](http://i.imgur.com/0jPdrgr.png)
+
+<sup>Module icons by Icon Alone.</sup>
