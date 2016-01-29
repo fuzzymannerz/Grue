@@ -1,5 +1,4 @@
 # Grue Sentora Theme #
-**This is a work in progress.**
 
 A grey bluey "flat" style theme for Sentora Control Panel.
 
