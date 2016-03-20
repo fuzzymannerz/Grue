@@ -2,7 +2,7 @@
 
 A grey bluey "flat" style theme for Sentora Control Panel.
 
-You can see a demo of it in action over at [us.sentora.ga](http://us.sentora.ga/). Go into the "Theme Selector" and choose "Grue".
+You can see a demo of it in action over at [sentora.ga](http://sentora.ga/). Login to the Sentora demo then go into the "Theme Selector" and choose "Grue".
 
 ###Screenshots:###
 ![Grue for Sentora screenshot](http://i.imgur.com/KTfec6p.jpg)
