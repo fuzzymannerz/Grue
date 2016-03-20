@@ -2,7 +2,7 @@
 
 A grey bluey "flat" style theme for Sentora Control Panel.
 
-**If you decide to test this theme, be sure to rename "grue-master" to "Grue" otherwise the login screen will be a blank page. ;)**
+You can see a demo of it in action over at [us.sentora.ga](http://us.sentora.ga/). Go into the "Theme Selector" and choose "Grue".
 
 ###Screenshots:###
 ![Grue for Sentora screenshot](http://i.imgur.com/KTfec6p.jpg)
@@ -17,3 +17,5 @@ A grey bluey "flat" style theme for Sentora Control Panel.
   (Usually /etc/sentora/panel/etc/styles/)
 - Rename "Grue-master" folder to "Grue" (Notice the uppercase "G")
 - In Sentora set the theme and away you go!
+
+**If you decide to use this theme, be sure to rename "grue-master" to "Grue" otherwise the login screen will be a blank page. ;)**
