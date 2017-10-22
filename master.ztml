@@ -257,7 +257,7 @@
                 </div><!--/page-content-->
             </div>
             <div id="footer" >
-            Copyright &copy; 2004-<# ui_tpl_year #> <a href="http://www.sentora.org/" target="_blank">Sentora Project</a>. Style: <a href="https://thefuzz.xyz/grue" target="_blank">Grue</a>.</div>
+            Copyright &copy; 2004-<# ui_tpl_year #> <a href="http://www.sentora.org/" target="_blank">Sentora Project</a>. Style: <a href="https://fuzzytek.ml/grue" target="_blank">Grue</a>.</div>
         </div><!-- END CONTAINER -->
 
         <!-- Javascript
